@@ -1,0 +1,11 @@
+/Users/gaolle/learn/rust/jike-1/rust-03/scrape_url/target/debug/deps/url-e31a751ac0c78dbd.rmeta: /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/lib.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/host.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/origin.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/parser.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/path_segments.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/slicing.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/quirks.rs
+
+/Users/gaolle/learn/rust/jike-1/rust-03/scrape_url/target/debug/deps/url-e31a751ac0c78dbd.d: /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/lib.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/host.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/origin.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/parser.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/path_segments.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/slicing.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/quirks.rs
+
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/lib.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/host.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/origin.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/parser.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/path_segments.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/slicing.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/url-2.2.2/src/quirks.rs:

@@ -1,0 +1,9 @@
+/Users/gaolle/learn/rust/jike-1/rust-03/scrape_url/target/debug/deps/httparse-5eeb155d4739135f.rmeta: /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/lib.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/iter.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/macros.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/simd/mod.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/simd/fallback.rs
+
+/Users/gaolle/learn/rust/jike-1/rust-03/scrape_url/target/debug/deps/httparse-5eeb155d4739135f.d: /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/lib.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/iter.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/macros.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/simd/mod.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/simd/fallback.rs
+
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/lib.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/iter.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/macros.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/simd/mod.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/httparse-1.7.1/src/simd/fallback.rs:

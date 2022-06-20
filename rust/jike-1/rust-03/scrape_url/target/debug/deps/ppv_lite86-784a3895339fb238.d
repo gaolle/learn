@@ -1,0 +1,10 @@
+/Users/gaolle/learn/rust/jike-1/rust-03/scrape_url/target/debug/deps/ppv_lite86-784a3895339fb238.rmeta: /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/lib.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/soft.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/types.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/generic.rs
+
+/Users/gaolle/learn/rust/jike-1/rust-03/scrape_url/target/debug/deps/libppv_lite86-784a3895339fb238.rlib: /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/lib.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/soft.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/types.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/generic.rs
+
+/Users/gaolle/learn/rust/jike-1/rust-03/scrape_url/target/debug/deps/ppv_lite86-784a3895339fb238.d: /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/lib.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/soft.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/types.rs /Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/generic.rs
+
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/lib.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/soft.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/types.rs:
+/Users/gaolle/.cargo/registry/src/mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b/ppv-lite86-0.2.16/src/generic.rs:

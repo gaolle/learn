@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/rust-07/rust-07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-08/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-09/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-11/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-12/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-13/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-14/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust-15/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-07/rust-07/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-08/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-09/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-11/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-12/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-13/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-14/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust-15/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
